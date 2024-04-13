@@ -1,5 +1,5 @@
 # Advanced SQL Puzzles 
-* I have solved *32 out of 72* complex SQL puzzles created by *Scott Peters* from [this repository.](https://github.com/smpetersgithub/AdvancedSQLPuzzles/tree/main)
+* I have solved *32 out of 70+* complex SQL puzzles created by *Scott Peters* from [this repository.](https://github.com/smpetersgithub/AdvancedSQLPuzzles/tree/main)
 * Most of these puzzles were solved in pgAdmin4 (Postgres), but some of them in the beginning were solved in Azure Data Studio(TSQL). 
 * I have learned a ton through solving these puzzles, and they showcase my ability to tackle various SQL problems and query writing.
 ## Solutions:
